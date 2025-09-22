@@ -1,0 +1,32 @@
+METADADOS
+---------
+
+Título:
+Ciclorrotas
+
+periodicidade:
+Mensal
+
+Versão:
+1.00
+
+tema:
+TRANSPORTE
+
+Descrição:
+Ciclorrotas da cidade de SP
+
+Tipo de Representação:
+LINHA
+
+escala:
+1:1.000
+
+Base Cartográfica:
+MDC
+
+Sistema de Referência:
+WGS_84 (EPSG: 4326)
+
+Data Atualização:
+14/03/2025
